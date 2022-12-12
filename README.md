@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @doctorbarbell
 - 👀 I’m interested in learning programming through lots of practice both here and other means.
-- 🌱 I’m currently learning C++ and Python
+- 🌱 I’m currently learning C, Java, and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
