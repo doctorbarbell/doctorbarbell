@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @doctorbarbell
-- 👀 I’m interested in learning programming through lots of practice both here and other means.
-- 🌱 I’m currently learning C, C++, and Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in learning both Back-End and Front-End Web Development!
+- 🌱 I’m currently learning the tools necessary to become a Full Stack Web Developer.
 
 <!---
 doctorbarbell/doctorbarbell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
